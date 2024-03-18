@@ -10,7 +10,7 @@ let smartPhon = {
     cemera:"64 MP,f/1.7"
    }
 }
-//console.log(smartPhon)
+console.log(smartPhon)
 
 
  //Question : 53;
@@ -20,7 +20,7 @@ const ProgrammerSkills = {
      framwork:["Express.js","React","Spring Boot"]
 }
 let {languages,tools,framwork} = ProgrammerSkills
-//console.log(` Lnguage:${languages[0]},Tool: ${tools[0]}, Framework: ${framwork[0]}`)
+console.log(` Lnguage:${languages[0]},Tool: ${tools[0]}, Framework: ${framwork[0]}`)
 
 //Question:54;
 
