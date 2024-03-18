@@ -5,14 +5,14 @@ function RestPera(arr:string[]) {
     });
 }
 let myHobbies = ["coding","raading","sleeping"]
-//RestPera(myHobbies)
+RestPera(myHobbies)
 
 //Question : 50;
  const myIdealDayIs = `My ideal day whould involes,
  1: combine study with friends.
  2: work on my personal project.
  3: spend time wioth family.`
- //console.log(myIdealDayIs)
+ console.log(myIdealDayIs)
 
  //Question :51;
  function simpleFunction(hight:number,width:number):number {
