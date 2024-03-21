@@ -1,15 +1,15 @@
 //Question: 61
-// enum VEHICLES {
-//     CAR,
-//     TRUCK,
-//     MOTORCYCLES,
-//     BUS
-// }
-// console.log(VEHICLES)
-// console.log(VEHICLES.BUS)
-// console.log(VEHICLES.CAR)
-// console.log(VEHICLES.TRUCK)
-// console.log(VEHICLES.MOTORCYCLES)
+enum VEHICLES {
+    CAR,
+    TRUCK,
+    MOTORCYCLES,
+    BUS
+}
+console.log(VEHICLES)
+console.log(VEHICLES.BUS)
+console.log(VEHICLES.CAR)
+console.log(VEHICLES.TRUCK)
+console.log(VEHICLES.MOTORCYCLES)
 
 //Question:62
 
@@ -24,9 +24,9 @@ class StudentData {
 const student1 = new StudentData("Kanwal",22)
 const student2 = new StudentData("Fiza",20)
 const student3 = new StudentData("Naimal",23)
-//console.log(student1)
-//console.log(student2)
-//console.log(student3)
+console.log(student1)
+console.log(student2)
+console.log(student3)
 
 //Question : 63
 type Shap = {
