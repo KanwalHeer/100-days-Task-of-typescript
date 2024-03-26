@@ -5,7 +5,7 @@ function updatValue() {
     num = 50;
     console.log(`updated value: ${num}`)
 }
-//updatValue()
+updatValue()
 
 
 
@@ -20,7 +20,7 @@ function swap() {
      console.log(`after swap a: ${a} and b: ${b}`)
 
 }
-//swap()
+swap()
 
 
 
