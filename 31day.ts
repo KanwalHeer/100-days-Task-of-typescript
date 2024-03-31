@@ -1,17 +1,17 @@
-// //Question:91;
-// let fruits:string[] = ["Apple","Banana","Orange","Mango"]
-// console.log(fruits)
-// fruits.push("Graps","Cherry")
-// console.log(fruits)
+//Question:91;
+let fruits:string[] = ["Apple","Banana","Orange","Mango"]
+console.log(fruits)
+fruits.push("Graps","Cherry")
+console.log(fruits)
 
 
 
 
-// //Question: 92;
-// let friends:string[]=["Naimal","Filza","Fiza","Maheen"]
-// console.log(friends)
-//  friends.pop()
-//  console.log(friends)
+//Question: 92;
+let friends:string[]=["Naimal","Filza","Fiza","Maheen"]
+console.log(friends)
+ friends.pop()
+ console.log(friends)
 
 
 
