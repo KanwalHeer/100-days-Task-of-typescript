@@ -1,6 +1,6 @@
 # 100-days-Task-of-typescript
 # 51 day Task:
-** Reading Artical of 10 points for enhancing programming skills ,i summarized this Artical in 10 short points here are these points;
+* Reading Artical of 10 points for enhancing programming skills ,i summarized this Artical in 10 short points here are these points;
 
 * 1-Practice, Practice, Practice...: Apply theoretical knowledge practically by practicing coding questions regularly. This helps in gaining familiarity with syntax, developing problem-solving skills, and understanding common programming problems.
 
