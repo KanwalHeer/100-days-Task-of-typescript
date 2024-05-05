@@ -63,7 +63,98 @@ Seek guidance from a knowledgeable mentor who can provide direction, explain con
 Overall, JavaScript remains a versatile language for web development, evolving with new tools and languages to address diverse requirements while maintaining its widespread adoption and support across browsers.
 
 
+# 100-days-Task-of-typescript
+# 53 day Task:
+* Watch the following video to learn about Chrome DevTools: Fun & powerful: Intro to Chrome DevTools
 
+Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster, watch the video to learn more about Chrome DevTools.
+
+
+# 100-days-Task-of-typescript
+# 54 day Task:
+
+* Read the following Articles and Code along with it:
+
+Hello World
+
+Variables
+
+
+# 100-days-Task-of-typescript
+# 55 day Task:
+
+* Read the following Articles and Code along with it:
+
+Data Types in JavaScript
+
+Interaction: alert, prompt, confirm in JavaScript
+
+
+# 100-days-Task-of-typescript
+# 56 day Task:
+
+* Read the following Articles and Code along with it:
+
+Type Conversions in JavaScript
+
+Operators in JavaScript
+
+
+# 100-days-Task-of-typescript
+# 57 day Task:
+
+* Read the following Articles and Code along with it:
+
+Comparisons in JavaScript
+
+Conditional Operators: if, '?'(Ternary Operator) in JavaScript
+
+
+# 100-days-Task-of-typescript
+# 58 day Task:
+
+* Read the following Articles and Code along with it:
+
+Logical Operators in JavaScript
+
+Nullish Coalescing Operator '??' in JavaScript
+
+# 100-days-Task-of-typescript
+# 59 day Task:
+
+* Read the following Articles and Code along with it:
+
+Loops: while and for in JavaScript
+
+The "switch" statement in JavaScript
+
+# 100-days-Task-of-typescript
+# 60 day Task:
+
+* Read the following Articles and Code along with it:
+
+Functions in JavaScript
+
+Function Expressions in JavaScript
+
+
+# 100-days-Task-of-typescript
+# 61 day Task:
+
+* Read the following Articles and Code along with it:
+
+Arrow functions Basics in JavaScript
+
+JavaScript specials in JavaScript
+
+# 100-days-Task-of-typescript
+# 62 day Task:
+
+First understand what typescript is, and why we need it, then setup typescript using the following guides:
+
+TypeScript Introduction in Simple Words
+
+Setup TypeScript | Step-by-Step
 
 
 
