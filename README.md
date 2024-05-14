@@ -156,6 +156,13 @@ TypeScript Introduction in Simple Words
 
 Setup TypeScript | Step-by-Step
 
+# 100-days-Task-of-typescript
+# 75 day Task:
+
+* Summary:
+
+The Internet is a global network of computers communicating through standardized protocols. Information travels in the form of bits over various mediums like Ethernet cables, fiber optics, and wireless signals. IP addresses and DNS manage the traversal of information between computers. Packets, routed through various paths, ensure reliable data transfer. HTTP is the standard protocol for webpage transfer. Encryption via SSL/TLS secures communications. Cybersecurity involves protective measures against internet-based crimes. For further understanding, resources like Kamran Ahmed's guide on DNS and episodes of "howdns.works" are recommended.
+
 
 
 
