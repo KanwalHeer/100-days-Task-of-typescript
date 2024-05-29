@@ -164,5 +164,82 @@ Setup TypeScript | Step-by-Step
 The Internet is a global network of computers communicating through standardized protocols. Information travels in the form of bits over various mediums like Ethernet cables, fiber optics, and wireless signals. IP addresses and DNS manage the traversal of information between computers. Packets, routed through various paths, ensure reliable data transfer. HTTP is the standard protocol for webpage transfer. Encryption via SSL/TLS secures communications. Cybersecurity involves protective measures against internet-based crimes. For further understanding, resources like Kamran Ahmed's guide on DNS and episodes of "howdns.works" are recommended.
 
 
+# 100-days-Task-of-typescript
+# 76 day Task:
+
+Read and understand the following Visual Guide about DNS and DHCP.
+
+What is DNS?
+
+What is DHCP?
+
+# 100-days-Task-of-typescript
+# 77 day Task:
+
+Read and understand the following Visual Guide about SSL, TLS, and SSH protocols.
+
+SSL vs TLS vs SSH Protocols
+
+# 100-days-Task-of-typescript
+# 78 day Task:
+
+Read and understand the following Visual Guide about the Web Vitals.
+
+What are Web Vitals?
+
+# 100-days-Task-of-typescript
+# 79 day Task:
+
+Read the following Articles with interactive video about Basics of Authentication and HTTP Basic Authentication.
+
+Basics of Authentication
+
+HTTP Basic Authentication
+
+# 100-days-Task-of-typescript
+# 80 day Task:
+
+Read the following Article about the difference between Full Stack Developer or Software Engineer.
+
+Full Stack Developer or Software Engineer – Which Way to Go?
+
+# 100-days-Task-of-typescript
+# 81 day Task:
+
+Today's task is to learn about:
+
+React Foundation
+About React and Next.js
+Rendering User Interfaces (UI)
+
+# 100-days-Task-of-typescript
+# 82 day Task:
+
+Today's task is to learn about:
+
+Updating UI with Javascript
+Getting Started with React
+
+# 100-days-Task-of-typescript
+# 83 day Task:
+
+Today's task is to learn about:
+
+Building UI with Components
+Displaying Data with Props
+
+# 100-days-Task-of-typescript
+# 84 day Task:
+
+Today's task is to learn about:
+
+Adding Interactivity with State
+Displaying Data with Props
+
+
+
+
+
+
 
 
